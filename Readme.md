@@ -1,1 +1,1 @@
-Projeto simples de uma calculadora em C#
+Projeto simples de uma calculadora
